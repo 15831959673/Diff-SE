@@ -1,0 +1,14 @@
+Bio==1.7.1
+dgl==2.2.1
+imblearn==0.0
+matplotlib==3.10.0
+numpy==2.2.3
+pandas==2.2.3
+rdkit==2024.9.5
+repDNA==1.1.4
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.1
