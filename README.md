@@ -1,4 +1,4 @@
-# Improving the prediction model of super enhancers based on one-dimensional diffusion data augmentation method
+# Diff-SE: A Diffusion-Augmented Contrastive Learning Framework for Super-Enhancer Prediction
 
 ## 1. Generate manual features
 
